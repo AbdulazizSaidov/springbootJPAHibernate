@@ -25,13 +25,14 @@ public class EmployeeService {
     }
 
     public boolean verification(String login, String password){
-
+/*
         User user = userRepository.findByName(login);
         if (user!=null){
             return true;
         }else{
             return false;
-        }
+        }*/
+return false;
 
     }
 }

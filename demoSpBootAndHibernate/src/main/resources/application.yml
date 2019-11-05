@@ -45,7 +45,7 @@ spring:
     url: jdbc:postgresql://localhost:5432/test
     name: test
     username: postgres
-    password: abdulaziz
+    password: postgres
 
   jpa:
     hibernate:
